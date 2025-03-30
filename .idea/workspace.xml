@@ -7,14 +7,43 @@
     <list default="true" id="95d462ed-11bf-4004-94ba-60e1d490aafa" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/Sprint_5.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.nu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate_this.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libcrypto-3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libffi-8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libssl-3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip-3.13.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip3.13.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pydoc.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/zlib1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/curl.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/helper.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/locator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/test_ registration.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/test_account.py" afterDir="false" />
@@ -48,7 +77,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "develop"
   }
 }]]></component>
   <component name="SharedIndexes">
