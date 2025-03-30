@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2d9f6b4-11f1-4231-8123-ef695d0c8828" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curl.py" beforeDir="false" afterPath="$PROJECT_DIR$/curl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_ account.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_ account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_exit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_registration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
