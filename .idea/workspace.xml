@@ -17,20 +17,8 @@
       <change afterPath="$PROJECT_DIR$/Sprint_5/test/test_exit.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Sprint_5/test/test_login.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Sprint_5/test/test_registration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sprint_5" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sprint_5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/curl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_ account.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_constructor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_exit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_registration.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +41,12 @@
     &quot;assignee&quot;: &quot;okss25&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/okss25/Sprint_5..git&quot;,
-    &quot;accountId&quot;: &quot;fc5320f5-91db-4b02-9828-fa4482ba615b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/okss25/Sprint_5",
+    "accountId": "fc5320f5-91db-4b02-9828-fa4482ba615b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
