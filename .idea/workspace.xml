@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2d9f6b4-11f1-4231-8123-ef695d0c8828" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sprint_5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/curl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/test/test_ account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/test/test_constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/test/test_exit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/test/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprint_5/test/test_registration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_ account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_constructor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_exit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_registration.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +45,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Sprint_5" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -44,22 +68,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_ account.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_constructor.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_exit.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_registration.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.curl.executor&quot;: &quot;Run&quot;,
-    &quot;Python.locators.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop__&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_ account.py.executor": "Run",
+    "Python tests.Python tests in test_constructor.py.executor": "Run",
+    "Python tests.Python tests in test_exit.py.executor": "Run",
+    "Python tests.Python tests in test_login.py.executor": "Run",
+    "Python tests.Python tests in test_registration.py.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.curl.executor": "Run",
+    "Python.locators.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Huawei\PycharmProjects\qa_python5\Sprint_5\Sprint_5" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
